@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/abdallahashraf22/Xhehab-Test-Patches/compare/v1.0.0...v1.0.1) (2026-09-15)
+
+### 🐛 Bug Fixes
+
+* fix BuiltWithScience patch ([dd767cf](https://github.com/abdallahashraf22/Xhehab-Test-Patches/commit/dd767cf19cc5e8178417e50b0ca1613ff51eb192))
+
 ## 1.0.0 (2026-09-14)
 
 ### ⚠ BREAKING CHANGES
