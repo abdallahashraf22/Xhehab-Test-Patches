@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-09-15T00:06:18",
-  "description": "## [1.0.1](https://github.com/abdallahashraf22/Xhehab-Test-Patches/compare/v1.0.0...v1.0.1) (2026-09-15)\n\n### 🐛 Bug Fixes\n\n* fix BuiltWithScience patch ([dd767cf](https://github.com/abdallahashraf22/Xhehab-Test-Patches/commit/dd767cf19cc5e8178417e50b0ca1613ff51eb192))",
-  "download_url": "https://github.com/abdallahashraf22/Xhehab-Test-Patches/releases/download/v1.0.1/patches-1.0.1.mpp",
+  "created_at": "2026-09-15T00:22:40",
+  "description": "## [1.0.2](https://github.com/abdallahashraf22/Xhehab-Test-Patches/compare/v1.0.1...v1.0.2) (2026-09-15)\n\n### 🐛 Bug Fixes\n\n* fix BuiltWithScience patch ([ffadb47](https://github.com/abdallahashraf22/Xhehab-Test-Patches/commit/ffadb47ed4ae47e3ea7460ccd570a0b639052b2b))\n* fix BuiltWithScience patch ([2472213](https://github.com/abdallahashraf22/Xhehab-Test-Patches/commit/24722134e44d74c6762d78c81dedb0361b20dff2))",
+  "download_url": "https://github.com/abdallahashraf22/Xhehab-Test-Patches/releases/download/v1.0.2/patches-1.0.2.mpp",
   "signature_download_url": "",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

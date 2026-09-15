@@ -5,7 +5,7 @@ Custom Morphe patches by Xhehab.
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.1](https://github.com/abdallahashraf22/Xhehab-Test-Patches/releases/tag/v1.0.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;17 patches total
+> **[v1.0.2](https://github.com/abdallahashraf22/Xhehab-Test-Patches/releases/tag/v1.0.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;17 patches total
 <details open>
 <summary>📦 TrainWise - Workout & Fitness Coach&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
