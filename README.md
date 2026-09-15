@@ -106,7 +106,7 @@ Custom Morphe patches by Xhehab.
 
 **🎯 Supported versions:**
 
-| 3.18.4 |
+| 3.21.3 |
 | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |

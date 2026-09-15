@@ -56,7 +56,7 @@ object Constants {
         packageName = "com.bws.appv2",
         apkFileType = ApkFileType.XAPK,
         appIconColor = 0x111827,
-        targets = listOf(AppTarget(version = "3.18.4"))
+        targets = listOf(AppTarget(version = "3.21.3"))
     )
 
     // Ganbaru Method
