@@ -148,7 +148,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "3.18.4",
+              "version": "3.21.3",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
